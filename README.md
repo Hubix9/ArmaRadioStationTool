@@ -1,5 +1,6 @@
 # ArmaRadioStationTool
 This tool let's you easily add stations to Arma Radio mod
+[download](https://github.com/Hubix9/ArmaRadioStationTool/releases/download/v1.0/ArmaRadioStationTool.zip)
 
 ## How to use
 1. In order to add a stations you will need to create a new .txt file inside of "stations" directory.
