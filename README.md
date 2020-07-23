@@ -18,3 +18,4 @@ This tool let's you easily add stations to Arma Radio mod
 
 ## Credits
 [gopbo](https://github.com/g0dsCookie/gopbo) - Package used to create .pbo files
+[ArmaRadio](https://github.com/dynulo/armaradio) - Mod for which this tool was created
