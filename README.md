@@ -9,3 +9,7 @@ This tool let's you easily add stations to Arma Radio mod
 5. After adding all stations open ArmaRadioStationTool.exe and follow instructions on screen
 
 ![Image showing example usage of the tool](img/example.png)
+
+
+## Credits
+[gopbo](https://github.com/g0dsCookie/gopbo) - Package used to create .pbo files
