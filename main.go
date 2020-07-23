@@ -8,8 +8,6 @@ import (
 	"path"
 	"path/filepath"
 	"regexp"
-
-	//"github.com/TheMysteriousVincent/go-pbo"
 	"github.com/g0dsCookie/gopbo/pbo"
 )
 
